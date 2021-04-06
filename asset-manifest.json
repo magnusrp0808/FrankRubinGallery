@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ec5e305.chunk.css",
-    "main.js": "/static/js/main.688dfc7d.chunk.js",
-    "main.js.map": "/static/js/main.688dfc7d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.35f0ef05.chunk.js": "/static/js/2.35f0ef05.chunk.js",
-    "static/js/2.35f0ef05.chunk.js.map": "/static/js/2.35f0ef05.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.6ec5e305.chunk.css.map": "/static/css/main.6ec5e305.chunk.css.map",
-    "static/js/2.35f0ef05.chunk.js.LICENSE.txt": "/static/js/2.35f0ef05.chunk.js.LICENSE.txt",
-    "static/media/InsideBob_Trailer.6db30d1e.gif": "/static/media/InsideBob_Trailer.6db30d1e.gif"
+    "main.css": "/FrankRubinGallery/static/css/main.6ec5e305.chunk.css",
+    "main.js": "/FrankRubinGallery/static/js/main.6e75165f.chunk.js",
+    "main.js.map": "/FrankRubinGallery/static/js/main.6e75165f.chunk.js.map",
+    "runtime-main.js": "/FrankRubinGallery/static/js/runtime-main.f080542f.js",
+    "runtime-main.js.map": "/FrankRubinGallery/static/js/runtime-main.f080542f.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/FrankRubinGallery/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.35f0ef05.chunk.js": "/FrankRubinGallery/static/js/2.35f0ef05.chunk.js",
+    "static/js/2.35f0ef05.chunk.js.map": "/FrankRubinGallery/static/js/2.35f0ef05.chunk.js.map",
+    "index.html": "/FrankRubinGallery/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/FrankRubinGallery/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.6ec5e305.chunk.css.map": "/FrankRubinGallery/static/css/main.6ec5e305.chunk.css.map",
+    "static/js/2.35f0ef05.chunk.js.LICENSE.txt": "/FrankRubinGallery/static/js/2.35f0ef05.chunk.js.LICENSE.txt",
+    "static/media/InsideBob_Trailer.6db30d1e.gif": "/FrankRubinGallery/static/media/InsideBob_Trailer.6db30d1e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d25ba2e.js",
+    "static/js/runtime-main.f080542f.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.35f0ef05.chunk.js",
     "static/css/main.6ec5e305.chunk.css",
-    "static/js/main.688dfc7d.chunk.js"
+    "static/js/main.6e75165f.chunk.js"
   ]
 }
