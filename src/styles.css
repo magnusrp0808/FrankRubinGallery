@@ -1,0 +1,12 @@
+.App {
+  text-align: left;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px; /* height of sticky header */
+}
+
+.navbar{
+  padding: 25px !important;
+}
