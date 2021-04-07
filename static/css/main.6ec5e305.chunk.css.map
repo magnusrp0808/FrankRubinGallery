@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,eACF,CAEA,KACE,sBAAuB,CACvB,uBACF,CAEA,QACE,sBACF","file":"main.6ec5e305.chunk.css","sourcesContent":[".App {\n  text-align: left;\n}\n\nhtml {\n  scroll-behavior: smooth;\n  scroll-padding-top: 80px; /* height of sticky header */\n}\n\n.navbar{\n  padding: 25px !important;\n}"]}
