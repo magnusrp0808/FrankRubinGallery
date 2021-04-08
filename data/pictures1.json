@@ -1,0 +1,38 @@
+[
+   {
+      "id":0,
+      "title":"A day in a day",
+      "shortDesc":"This painting was blabla",
+      "longDesc":"Blablablablabla",
+      "date":"03/01 - 2019",
+      "image":"image1.png",
+      "type":"litography"
+   },
+   {
+      "id":1,
+      "title":"A day in a day",
+      "shortDesc":"This painting was blabla",
+      "longDesc":"Blablablablabla",
+      "date":"03/01 - 2019",
+      "image":"image2.png",
+      "type":"litography"
+   },
+   {
+      "id":2,
+      "title":"A day in a day",
+      "shortDesc":"This painting was blabla",
+      "longDesc":"Blablablablabla",
+      "date":"03/01 - 2019",
+      "image":"image3.png",
+      "type":"litography"
+   },
+   {
+      "id":3,
+      "title":"Drøm om..",
+      "shortDesc":"Flot billede i blabla",
+      "longDesc":"Trykt 1020313 gange",
+      "date":"1963",
+      "image":"image4.png",
+      "type":"Tryk"
+   }
+]
