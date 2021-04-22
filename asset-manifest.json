@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FrankRubinGallery/static/css/main.c618c294.chunk.css",
-    "main.js": "/FrankRubinGallery/static/js/main.74597a40.chunk.js",
-    "main.js.map": "/FrankRubinGallery/static/js/main.74597a40.chunk.js.map",
+    "main.js": "/FrankRubinGallery/static/js/main.417e7a04.chunk.js",
+    "main.js.map": "/FrankRubinGallery/static/js/main.417e7a04.chunk.js.map",
     "runtime-main.js": "/FrankRubinGallery/static/js/runtime-main.f080542f.js",
     "runtime-main.js.map": "/FrankRubinGallery/static/js/runtime-main.f080542f.js.map",
     "static/css/2.9b0b418a.chunk.css": "/FrankRubinGallery/static/css/2.9b0b418a.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.9b0b418a.chunk.css",
     "static/js/2.89cc23ce.chunk.js",
     "static/css/main.c618c294.chunk.css",
-    "static/js/main.74597a40.chunk.js"
+    "static/js/main.417e7a04.chunk.js"
   ]
 }
