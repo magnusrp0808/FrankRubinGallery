@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FrankRubinGallery/static/css/main.8ad04e6c.chunk.css",
+    "main.css": "/FrankRubinGallery/static/css/main.6f71c0d9.chunk.css",
     "main.js": "/FrankRubinGallery/static/js/main.1122e528.chunk.js",
     "main.js.map": "/FrankRubinGallery/static/js/main.1122e528.chunk.js.map",
     "runtime-main.js": "/FrankRubinGallery/static/js/runtime-main.f080542f.js",
@@ -10,14 +10,14 @@
     "static/js/2.496a2fdb.chunk.js.map": "/FrankRubinGallery/static/js/2.496a2fdb.chunk.js.map",
     "index.html": "/FrankRubinGallery/index.html",
     "static/css/2.9b0b418a.chunk.css.map": "/FrankRubinGallery/static/css/2.9b0b418a.chunk.css.map",
-    "static/css/main.8ad04e6c.chunk.css.map": "/FrankRubinGallery/static/css/main.8ad04e6c.chunk.css.map",
+    "static/css/main.6f71c0d9.chunk.css.map": "/FrankRubinGallery/static/css/main.6f71c0d9.chunk.css.map",
     "static/js/2.496a2fdb.chunk.js.LICENSE.txt": "/FrankRubinGallery/static/js/2.496a2fdb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f080542f.js",
     "static/css/2.9b0b418a.chunk.css",
     "static/js/2.496a2fdb.chunk.js",
-    "static/css/main.8ad04e6c.chunk.css",
+    "static/css/main.6f71c0d9.chunk.css",
     "static/js/main.1122e528.chunk.js"
   ]
 }
