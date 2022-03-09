@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/FrankRubinGallery/static/css/main.9f746567.chunk.css",
-    "main.js": "/FrankRubinGallery/static/js/main.ecdf83cf.chunk.js",
-    "main.js.map": "/FrankRubinGallery/static/js/main.ecdf83cf.chunk.js.map",
+    "main.css": "/FrankRubinGallery/static/css/main.6f71c0d9.chunk.css",
+    "main.js": "/FrankRubinGallery/static/js/main.1122e528.chunk.js",
+    "main.js.map": "/FrankRubinGallery/static/js/main.1122e528.chunk.js.map",
     "runtime-main.js": "/FrankRubinGallery/static/js/runtime-main.f080542f.js",
     "runtime-main.js.map": "/FrankRubinGallery/static/js/runtime-main.f080542f.js.map",
     "static/css/2.9b0b418a.chunk.css": "/FrankRubinGallery/static/css/2.9b0b418a.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.496a2fdb.chunk.js.map": "/FrankRubinGallery/static/js/2.496a2fdb.chunk.js.map",
     "index.html": "/FrankRubinGallery/index.html",
     "static/css/2.9b0b418a.chunk.css.map": "/FrankRubinGallery/static/css/2.9b0b418a.chunk.css.map",
-    "static/css/main.9f746567.chunk.css.map": "/FrankRubinGallery/static/css/main.9f746567.chunk.css.map",
+    "static/css/main.6f71c0d9.chunk.css.map": "/FrankRubinGallery/static/css/main.6f71c0d9.chunk.css.map",
     "static/js/2.496a2fdb.chunk.js.LICENSE.txt": "/FrankRubinGallery/static/js/2.496a2fdb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f080542f.js",
     "static/css/2.9b0b418a.chunk.css",
     "static/js/2.496a2fdb.chunk.js",
-    "static/css/main.9f746567.chunk.css",
-    "static/js/main.ecdf83cf.chunk.js"
+    "static/css/main.6f71c0d9.chunk.css",
+    "static/js/main.1122e528.chunk.js"
   ]
 }
